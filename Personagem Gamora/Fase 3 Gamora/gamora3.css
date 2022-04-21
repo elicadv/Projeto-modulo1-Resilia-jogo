@@ -15,7 +15,7 @@ header{
 body{
     background-color:black;
     color: white;
-    font-size: 25px;
+    font-size: 30px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     
 }
@@ -33,7 +33,7 @@ p{
 h5{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     background-color:blueviolet;
-    font-size: 20px;
+    font-size: 30px;
     border-color: white;
     border-style: groove;
     padding: 15px;
@@ -42,9 +42,5 @@ h5{
     #item2{
         margin-top: 10px;
     }
-    button{
-        background-color:blueviolet;
-        color: white;
-        margin-left: 625px;}
 
 
