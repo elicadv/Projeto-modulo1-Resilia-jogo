@@ -53,25 +53,5 @@ button{
     margin-left: 625px;
     
 }
-@media(max-width: 425px){
-    header{
-        height: 80px;
-    }
-}
-@media(max-width: 425px){
-    header{
-        width: 100%;
-    }
-}
-@media(max-width: 425px){
-    body{
-        width: 160% ;
-    }
-}
-@media(max-width: 425px){
-    button{
-        margin-left:300px;
-    }
-}
 
 
